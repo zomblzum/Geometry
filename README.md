@@ -7,13 +7,21 @@
 ### Площадь треугольника
 
 ```c#
-Triangle triangle = new Triangle(2,2,2);
+double side1 = 3;
+double side2 = 4;
+double side3 = 5;
+
+Triangle triangle = new Triangle(side1,side2,side3);
+
 double triangleArea = new AreaCalculator(triangle).Calculate();
 ```
 
 ### Площадь окружности
 
 ```c#
-Circle circle = new Circle(2,2,2);
+double radius = 2;
+
+Circle circle = new Circle(radius);
+
 double circleArea = new AreaCalculator(circle).Calculate();
 ```
