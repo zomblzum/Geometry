@@ -13,7 +13,7 @@ double side3 = 5;
 
 Triangle triangle = new Triangle(side1,side2,side3);
 
-double triangleArea = new AreaCalculator(triangle).Calculate();
+double triangleArea = new AreaCalculator().Calculate(triangle);
 ```
 
 ### Площадь окружности
@@ -23,5 +23,5 @@ double radius = 2;
 
 Circle circle = new Circle(radius);
 
-double circleArea = new AreaCalculator(circle).Calculate();
+double circleArea = new AreaCalculator().Calculate(circle);
 ```
