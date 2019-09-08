@@ -1,0 +1,7 @@
+c:\users\1111\documents\visual studio 2013\Projects\ClassLibrary2\AreaCalculatorUnitTest\obj\Debug\GeometryUnitTest.csprojResolveAssemblyReference.cache
+c:\users\1111\documents\visual studio 2013\Projects\ClassLibrary2\AreaCalculatorUnitTest\bin\Debug\GeometryUnitTest.dll
+c:\users\1111\documents\visual studio 2013\Projects\ClassLibrary2\AreaCalculatorUnitTest\bin\Debug\GeometryUnitTest.pdb
+c:\users\1111\documents\visual studio 2013\Projects\ClassLibrary2\AreaCalculatorUnitTest\obj\Debug\GeometryUnitTest.dll
+c:\users\1111\documents\visual studio 2013\Projects\ClassLibrary2\AreaCalculatorUnitTest\obj\Debug\GeometryUnitTest.pdb
+c:\users\1111\documents\visual studio 2013\Projects\ClassLibrary2\AreaCalculatorUnitTest\bin\Debug\Geometry.dll
+c:\users\1111\documents\visual studio 2013\Projects\ClassLibrary2\AreaCalculatorUnitTest\bin\Debug\Geometry.pdb
