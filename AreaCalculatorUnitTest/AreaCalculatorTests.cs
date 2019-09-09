@@ -1,6 +1,6 @@
 ﻿using System;
-using Geometry.Calculators;
-using Geometry.Shapes;
+using GeometryLibrary.Calculators;
+using GeometryLibrary.Shapes;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace GeometryTests

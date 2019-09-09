@@ -1,6 +1,6 @@
-﻿using Geometry.Shapes;
+﻿using GeometryLibrary.Shapes;
 
-namespace Geometry.Calculators
+namespace GeometryLibrary.Calculators
 {
     /// <summary>
     /// Калькулятор площади фигур

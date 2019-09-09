@@ -5,3 +5,10 @@ c:\users\1111\documents\visual studio 2013\Projects\ClassLibrary2\AreaCalculator
 c:\users\1111\documents\visual studio 2013\Projects\ClassLibrary2\AreaCalculatorUnitTest\obj\Debug\GeometryUnitTest.pdb
 c:\users\1111\documents\visual studio 2013\Projects\ClassLibrary2\AreaCalculatorUnitTest\bin\Debug\Geometry.dll
 c:\users\1111\documents\visual studio 2013\Projects\ClassLibrary2\AreaCalculatorUnitTest\bin\Debug\Geometry.pdb
+C:\Users\1111\Desktop\Geometry\AreaCalculatorUnitTest\bin\Debug\GeometryUnitTest.dll
+C:\Users\1111\Desktop\Geometry\AreaCalculatorUnitTest\bin\Debug\GeometryUnitTest.pdb
+C:\Users\1111\Desktop\Geometry\AreaCalculatorUnitTest\bin\Debug\Geometry.dll
+C:\Users\1111\Desktop\Geometry\AreaCalculatorUnitTest\bin\Debug\Geometry.pdb
+C:\Users\1111\Desktop\Geometry\AreaCalculatorUnitTest\obj\Debug\GeometryUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\1111\Desktop\Geometry\AreaCalculatorUnitTest\obj\Debug\GeometryUnitTest.dll
+C:\Users\1111\Desktop\Geometry\AreaCalculatorUnitTest\obj\Debug\GeometryUnitTest.pdb

@@ -1,4 +1,4 @@
-﻿using Geometry.Shapes;
+﻿using GeometryLibrary.Shapes;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace GeometryTests

@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Geometry.Shapes
+namespace GeometryLibrary.Shapes
 {
     /// <summary>
     /// Реализация фигуры "Треугольник"

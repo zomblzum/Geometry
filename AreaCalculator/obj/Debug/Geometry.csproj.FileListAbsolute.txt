@@ -3,3 +3,8 @@ c:\users\1111\documents\visual studio 2013\Projects\ClassLibrary2\AreaCalculator
 c:\users\1111\documents\visual studio 2013\Projects\ClassLibrary2\AreaCalculator\obj\Debug\Geometry.dll
 c:\users\1111\documents\visual studio 2013\Projects\ClassLibrary2\AreaCalculator\obj\Debug\Geometry.pdb
 c:\users\1111\documents\visual studio 2013\Projects\ClassLibrary2\AreaCalculator\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+C:\Users\1111\Desktop\Geometry\AreaCalculator\bin\Debug\Geometry.dll
+C:\Users\1111\Desktop\Geometry\AreaCalculator\bin\Debug\Geometry.pdb
+C:\Users\1111\Desktop\Geometry\AreaCalculator\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+C:\Users\1111\Desktop\Geometry\AreaCalculator\obj\Debug\Geometry.dll
+C:\Users\1111\Desktop\Geometry\AreaCalculator\obj\Debug\Geometry.pdb

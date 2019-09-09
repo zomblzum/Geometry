@@ -1,4 +1,4 @@
-﻿namespace Geometry.Shapes
+﻿namespace GeometryLibrary.Shapes
 {
     /// <summary>
     /// Геометрическая фигура
