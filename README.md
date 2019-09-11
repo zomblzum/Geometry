@@ -1,6 +1,6 @@
-# Geometry
+# Geometry Library
 
-Вычисление площади геометрических фигур
+Библиотека для работы с геометрическими фигурами
 
 ## Примеры
 
@@ -25,3 +25,7 @@ Circle circle = new Circle(radius);
 
 double circleArea = Geometry.Area(circle);
 ```
+
+### Доп. информация
+
+Сделано в качестве тестового задания
