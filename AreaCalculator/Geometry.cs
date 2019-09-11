@@ -14,13 +14,28 @@ namespace GeometryLibrary
     public static class Geometry
     {
         /// <summary>
-        /// Выводит результат вычислений для фигуры
+        /// Вычислить площадь фигуры
         /// </summary>
         /// <param name="shape">Фигура для вычислений</param>
-        /// <returns>Возвращает площадь фигуры</returns>
+        /// <returns>Площадь фигуры</returns>
         public static double Area(Shape shape)
         {
-            return new AreaCalculator().Calculate(shape);
+            return GetAnswerFromCalculator(new AreaCalculator(), shape);
+        }
+
+        /// <summary>
+        /// Вычислить Периметр фигуры
+        /// </summary>
+        /// <param name="shape">Фигура для вычислений</param>
+        /// <returns>Периметр фигуры</returns>
+        public static double Perimeter(Shape shape)
+        {
+            return GetAnswerFromCalculator(new PerimeterCalculator(), shape);
+        }
+
+        private static double GetAnswerFromCalculator(Calculator calculator, Shape shape)
+        {
+            return calculator.Calculate(shape);
         }
     }
 }

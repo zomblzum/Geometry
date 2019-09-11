@@ -29,5 +29,27 @@ namespace GeometryTests
 
             Assert.AreEqual(triangleArea, Math.Round(calculator.Calculate(triangle),2));
         }
+
+        [TestMethod]
+        public void CalculateRectangleAreaTest()
+        {
+            double triangleArea = 256;
+
+            Shape rectangle = new Rectangle(32, 8);
+            Calculator calculator = new AreaCalculator();
+
+            Assert.AreEqual(triangleArea, Math.Round(calculator.Calculate(rectangle), 2));
+        }
+
+        [TestMethod]
+        public void CalculateSquareAreaTest()
+        {
+            double triangleArea = 64;
+
+            Shape square = new Square(8);
+            Calculator calculator = new AreaCalculator();
+
+            Assert.AreEqual(triangleArea, Math.Round(calculator.Calculate(square), 2));
+        }
     }
 }

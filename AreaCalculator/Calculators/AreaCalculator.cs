@@ -7,7 +7,7 @@ namespace GeometryLibrary.Calculators
     /// </summary>
     public class AreaCalculator: Calculator
     {
-        public double Calculate(Shape shape)
+        public override double Calculate(Shape shape)
         {
             return shape.Area();
         }

@@ -34,11 +34,25 @@ namespace GeometryLibrary.Shapes
             }
         }
 
-        public double Area()
+        /// <summary>
+        /// Стороны треугольника
+        /// </summary>
+        /// <returns>Массив всех сторон</returns>
+        public double[] GetSides()
+        {
+            return new double[] { side1, side2, side3 };
+        }
+
+        public override double Area()
         {
             double halfPerimeter = (side1 + side2 + side3) / 2;
 
             return Math.Sqrt(halfPerimeter * (halfPerimeter - side1) * (halfPerimeter - side2) * (halfPerimeter - side3));
+        }
+
+        public override double Perimeter()
+        {
+            return GetSides().Sum();
         }
 
         /// <summary>
@@ -47,7 +61,7 @@ namespace GeometryLibrary.Shapes
         /// <returns>Возвращает true, если треугольник является прямоугольным</returns>
         public bool IsRightTriangle()
         {
-            double[] sides = new double[] { side1, side2, side3 };
+            double[] sides = GetSides();
             double[] sortedSides = sides.OrderBy(i => i).ToArray<double>();
 
             double cathetus1 = Math.Pow(sortedSides[0], 2);

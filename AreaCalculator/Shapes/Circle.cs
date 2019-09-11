@@ -24,9 +24,14 @@
             return radius;
         }
 
-        public double Area()
+        public override double Area()
         {
             return pi * radius * radius;
+        }
+
+        public override double Perimeter()
+        {
+            return 2 * pi * radius;
         }
     }
 }

@@ -3,11 +3,16 @@
     /// <summary>
     /// Геометрическая фигура
     /// </summary>
-    public interface Shape
+    public abstract class Shape
     {
         /// <summary>
         /// Площадь фигуры
         /// </summary>
-        double Area();
+        public abstract double Area();
+
+        /// <summary>
+        /// Периметр фигуры
+        /// </summary>
+        public abstract double Perimeter();
     }
 }

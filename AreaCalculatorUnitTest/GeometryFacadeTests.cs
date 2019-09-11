@@ -17,5 +17,15 @@ namespace GeometryTests
 
             Assert.AreEqual(triangleArea, Math.Round(Geometry.Area(triangle), 2));
         }
+
+        [TestMethod]
+        public void PerimeterTest()
+        {
+            double trianglePerimeter = 88.88;
+
+            Shape triangle = new Triangle(44.22, 22.44, 22.22);
+
+            Assert.AreEqual(trianglePerimeter, Math.Round(Geometry.Perimeter(triangle), 2));
+        }
     }
 }
